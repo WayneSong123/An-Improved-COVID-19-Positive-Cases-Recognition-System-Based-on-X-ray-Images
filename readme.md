@@ -1,4 +1,5 @@
 **Introduction**
+
   COVID-19 is a relatively new respiratory disease 
 resulting from the infection of the 
 coronavirus SARS-CoV-2 (Queensland Health, 2020). 
@@ -40,8 +41,8 @@ accuracy varies greatly after each training
 
 <img width="464" alt="05c34b7177ec30446837a5e52884f40" src="https://user-images.githubusercontent.com/81739293/218431030-fa7a1e8d-0ce4-48c6-ab4e-0a4a72c8a2d3.png">
 
-**Figure 1. Training and Validation Figure 2. Training and Validation Accuracy
-                 Accuracy       **   
+Left：Figure 1. Training and Validation Accuracy 
+right：Figure 2. Training and Validation Accuracy
 
   These two problems will prevent the model from being 
 applied to COVID-19 diagnosis in practice. By preprocessing 
